@@ -147,15 +147,6 @@ https://github.com/arwainme/E-Commerce
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-🥇 ECPC National Level — Ranked 10th (2024)
-
-🏅 ECPC National Level — Ranked 55th (2023)
-
-</div>
 
 ---
 
